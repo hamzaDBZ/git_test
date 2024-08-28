@@ -1,3 +1,7 @@
 testing 1:
 
-Hello World 
+    Hello World
+
+testing 2:
+
+    commit without -m flag
