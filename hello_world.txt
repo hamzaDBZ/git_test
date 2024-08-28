@@ -5,3 +5,7 @@ testing 1:
 testing 2:
 
     commit without -m flag
+
+testing 2:
+
+    commit without -m flag after configuration
